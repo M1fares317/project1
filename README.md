@@ -4,42 +4,35 @@
     margin: 0;
     padding: 0;
     }
-
 header {
     background-color: Indigo;
     color: white;
     padding: 10px 0;
     text-align: center;
     }
-
 nav {
     background-color: Lavender;
     padding: 10px 0;
     text-align: center;
     }
-
 nav a {
     margin: 0 15px;
     text-decoration: none;
     color: black;
     font-size: 12px;
     }
-
 nav a:hover {
     color: #007BFF;
     }
-
 main {
     padding: 20px;
     text-align: center;
     }
-
 footer {
     background-color: Indigo;
     text-align: center;
     color: white;
     }
-
 .nastolky {
     text-align: left;
     }
@@ -47,27 +40,20 @@ main img {
     height: 75px;
     width: 150px;
     }
-
 .img1 {
     height: 80px;
     width: 75px;
     }
-
 .img2 {
     height: 80px;
     width: 80px;
     }
-
 .nastolky1 {
     text-align: right;
     }
-
 .nastolky1,.nastolky {
      color: DarkSlateGray;
     }
-
-
-
 <head>
     <title>Топ 5 настільних ігор для всієї сім'ї!</title>
     <link rel="stylesheet"href="style.css"/>
